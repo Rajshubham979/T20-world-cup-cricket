@@ -1,4 +1,5 @@
 # T20 Cricket Team Selection Project
+![Screenshot (234)](https://github.com/Rajshubham979/T20-world-cup-cricket/assets/77433156/3023d6b1-96b1-4a20-8c73-746b4def8d8d)
 
 ## Overview
 
